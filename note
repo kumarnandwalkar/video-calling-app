@@ -1,0 +1,8 @@
+first start the node server from webrtc-video-call path server.js
+then start react app from client and share the local address of react app showed in terminal with other devices connected
+to wifi
+and to see devices available on wifi enable insecure wifi origin from chrome labs and also paste the local address of react app there
+do the same procedure of chrome labs with any device you want to communicate with 
+and most importantly turn windows defender firewall off
+
+and ik i've added node modules to github which is a wrong practice, but it was done intentionally 
