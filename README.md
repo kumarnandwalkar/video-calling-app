@@ -1,4 +1,4 @@
-This is a videocalling application in which at a time only 2 people can join in a room 
+This is a videocalling application in which at a time only 2 people can join in a room more of a whatsapp video call like system unlike zoom, google meet clone
 and this video calling is done on devices connected to same wifi i.e video calling on LAN using webrtc
 
 
